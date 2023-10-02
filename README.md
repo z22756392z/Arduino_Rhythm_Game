@@ -1,5 +1,7 @@
 ## 微電腦數位實習期末作業
 
+demo: https://www.youtube.com/watch?v=QlPF9cSGz5U&ab_channel=%E9%AD%8F%E4%BB%B2%E5%BD%A5
+
 #### 關於此作業
 
 此作業為音樂遊戲，使用Arduino Uno版，LCD2，蜂鳴器，Led燈泡和按鈕*3完成。
